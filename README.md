@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vmvirreira, aka Victor Marcelo Virreira
 - 👀 I’m interested in everything lol - particularly science, art and music
-- 🌱 I’m currently as much as I can
+- 🌱 I’m currently leaarning and building as must as I can
 - 💞️ I’m looking to collaborate on web. mobile, social music projects
 - 📫 How to reach me: victor.m.virreira@gmail.com
 
