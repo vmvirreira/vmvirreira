@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vmvirreira, aka Victor Marcelo Virreira
+- 👋 Hi, I’m @vmvirreira, aka <a href="https://about.me/victor.m.virreira/">Victor Marcelo Virreira</a>
 - 👀 I’m interested in everything lol - particularly science, art and music
 - 🌱 I’m currently leaarning and building as must as I can
 - 💞️ I’m looking to collaborate on web. mobile, social music projects
